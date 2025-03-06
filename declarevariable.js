@@ -35,3 +35,16 @@ message = hello;
 console.log(message);
 
 //a variable should only be declared once
+
+// name = "Sam";
+// var name = "Sam";
+const bithday = "12/12/1990";
+let age = 25;
+
+//const - this is used to declare constants which means that the variable does not change
+
+//null - value not known
+//undefined - value is not assigned
+
+let name;
+console.log(typeof name);
